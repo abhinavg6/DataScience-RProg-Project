@@ -2,7 +2,7 @@
 
 The set of R scripts analyse the outcome care data for hospitals across US, which is available from [Hospital Compare](https://data.medicare.gov/data/hospital-compare).
 
-The data file used for this project is ![outcome-of-care-measures.csv](outcome-of-care-measures.csv). The file ![Hospital_Revised_Flatfiles.pdf](Hospital_Revised_Flatfiles.pdf) explains the context of each field in data file.
+The data file used for this project is [outcome-of-care-measures.csv](outcome-of-care-measures.csv). The file [Hospital_Revised_Flatfiles.pdf](Hospital_Revised_Flatfiles.pdf) explains the context of each field in data file.
 
 Following scripts were created for the project:
 <ol>
